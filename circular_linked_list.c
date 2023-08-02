@@ -230,7 +230,6 @@ int main()
             node_adder(&ref, new_node_data, node_finder_data);
             
             break;
-
         case 3:
             printf("\nThis will delete a node from the list\n");
             printf("please enter the data of the node you would like to delete.\n");
